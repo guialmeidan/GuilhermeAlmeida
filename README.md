@@ -15,14 +15,14 @@ Here, I share my studies, projects, and learnings throughout this journey. 🚀
 </p>
 
 ## Education
-- Degree in Data Science e Analytics from _Preditiva_.
-- MBA in Project Management from _IPOG_. 
-- Degree in Computer Engineering from _PUC Goiás_.
+- Degree in Data Science e Analytics at _Preditiva_.
+- MBA in Project Management at _IPOG_. 
+- Degree in Computer Engineering at _PUC Goiás_.
 
 ### Other Courses
-- Spanish for The Corporate Environment from _Linguagem Intercultural_ - Level B1.
-- English as a Second Language from Illinois Institute of Technology, Chicago - Level B2.
-- Information Technology from Illinois Institute of Technology, Chicago.
+- Spanish for The Corporate Environment at _Linguagem Intercultural_ - Level B1.
+- English as a Second Language at Illinois Institute of Technology, Chicago - Level B2.
+- Information Technology at Illinois Institute of Technology, Chicago.
 
 ## Hard Skills
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
