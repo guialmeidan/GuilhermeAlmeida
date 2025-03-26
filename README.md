@@ -15,7 +15,7 @@ Here, I share my studies, projects, and learnings throughout this journey. 🚀
 </p>
 
 ## Education
-- Degree in Data Science e Analytics at _Preditiva_.
+- Degree in Data Science and Analytics at _Preditiva_.
 - MBA in Project Management at _IPOG_. 
 - Degree in Computer Engineering at _PUC Goiás_.
 
